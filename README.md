@@ -21,7 +21,7 @@ Alireza Khatamian, Evan O. Paull, Andrea Califano* & Jiyang Yu*. SJARACNe: a sca
 ## Install Requirements
 First install [Python 3.6.1](https://www.python.org/downloads/) and then use the following command to install package requirements.
 </br></br>
-<code>pip install -f dependencies.txt</code>
+<code>pip install -r dependencies.txt</code>
 
 ## Install SJARACNe
 The linux and OSX pre-built distribution are provided and the program will use the corresponding distribution with respect the operating system.</br>
