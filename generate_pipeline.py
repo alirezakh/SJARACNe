@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys
 
 SJARACNE_PATH = os.environ['SJARACNE_PATH']
